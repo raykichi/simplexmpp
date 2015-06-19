@@ -1,0 +1,1 @@
+An xmpp (jabber client) written in C#. It will be made to handle better than your average chat client. Eventually, it would be nice if it grew into a tool that integrated email and chat together very seamlessly.
